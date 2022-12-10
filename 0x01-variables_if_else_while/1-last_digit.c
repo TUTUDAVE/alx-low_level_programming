@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-3include < stdio.h >
+#include < stdio.h >
 
 /**
  * main -entry to print automatic asigned numbers
