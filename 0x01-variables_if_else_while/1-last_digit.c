@@ -30,7 +30,7 @@ int main(void)
 		printf("and is 0");
 	}
 
-	if (k < 6 && != 0)
+	if (k < 6 && k != 0)
 	{
 		printf("and is less than 6 and not 0");
 	}
