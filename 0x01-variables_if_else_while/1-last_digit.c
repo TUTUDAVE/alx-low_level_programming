@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main -entry to print automatic asigned numbers
+ * main -asign a random numbers
  *
  * Entry: 0 (success)
  */
@@ -21,7 +21,7 @@ int main(void)
 
 	if (k > 5)
 	{
-		printf(" and is graeter than 5");
+		printf(" and is greater than 5");
 	}
 
 	if (k == 0)
