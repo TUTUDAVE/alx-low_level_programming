@@ -5,7 +5,7 @@
 /**
  * main -entry to print automatic asigned numbers
  *
- * Entry: 0 (suuccess)
+ * Entry: 0 (success)
  */
 
 int main(void)
@@ -21,7 +21,7 @@ int main(void)
 
 	if (k > 5)
 	{
-		printf(" and is graeterthan 5");
+		printf(" and is graeter than 5");
 	}
 
 	if (k == 0)
