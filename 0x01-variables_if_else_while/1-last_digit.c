@@ -21,18 +21,18 @@ int main(void)
 
 	if (k > 5)
 	{
-		printf("and is graeterthan 5");
+		printf(" and is graeterthan 5");
 	}
 
 	if (k == 0)
 	{
 
-		printf("and is 0");
+		printf(" and is 0");
 	}
 
 	if (k < 6 && k != 0)
 	{
-		printf("and is less than 6 and not 0");
+		printf(" and is less than 6 and not 0");
 	}
 
 	printf("\n");
