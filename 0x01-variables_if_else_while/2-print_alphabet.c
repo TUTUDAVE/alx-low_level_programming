@@ -8,9 +8,9 @@
 
 int main(void)
 {
-	putchar("Lowercase letters: \n");
+	char ch;
 
-	for (ch = 'a'; ch <= 'z'' ch++)
+	for (ch = 'a'; ch <= 'z' ch++)
 	{
 		putchar ("%c ", ch);
 	}
