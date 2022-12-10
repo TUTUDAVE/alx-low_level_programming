@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 /**
- * main -asign a random numbers
+ * main -asign a random number to a variable n each time it is executed
+ *
+ * and print the last digit of the number stored in the variable n
  *
  * Entry: 0 (success)
  */
