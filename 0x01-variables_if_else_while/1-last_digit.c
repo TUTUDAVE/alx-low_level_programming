@@ -1,0 +1,39 @@
+#include <stdlib.h>
+#include <time.h>
+3include < stdio.h >
+
+/**
+ * main -entry to print automatic asigned numbers
+ *
+ * Entry: 0 (suuccess)
+ */
+
+int main(void)
+{
+	int n;
+	int k;
+
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
+	k = n % 10;
+
+	printf("Last digit of %d is %d", n, k);
+
+	if (x > 5)
+	{
+		printf("and is graeterthan 5\n");
+	}
+
+	if (x == 0)
+	{
+
+		printf("and is 0\n");
+	}
+
+	if (x < 6 && != 0)
+	{
+		printf("and is less than 6 and not 0\n");
+	}
+
+	return (0);
+}
