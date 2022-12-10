@@ -19,18 +19,18 @@ int main(void)
 
 	printf("Last digit of %d is %d", n, k);
 
-	if (x > 5)
+	if (k > 5)
 	{
 		printf("and is graeterthan 5\n");
 	}
 
-	if (x == 0)
+	if (k == 0)
 	{
 
 		printf("and is 0\n");
 	}
 
-	if (x < 6 && != 0)
+	if (k < 6 && != 0)
 	{
 		printf("and is less than 6 and not 0\n");
 	}
