@@ -10,7 +10,7 @@ int main(void)
 {
 	int f, g;
 
-	for f = 0; g < 100; f++)
+	for (f = 0; g < 100; f++)
 	{
 		for (g = 0; g < 100; g++)
 		{
