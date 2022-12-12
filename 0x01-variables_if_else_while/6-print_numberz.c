@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	int num;
+	int nuim;
 
 	for (num = 0; num < 10; num++)
 	{
@@ -16,5 +16,7 @@ int main(void)
 	}
 
 	putchar('\n');
+
+	return (0);
 
 }
