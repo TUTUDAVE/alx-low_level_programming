@@ -2,6 +2,7 @@
 
 /**
 * _isdigit - write a function that check for a digit (0 through 9).
+* My worki
 * @c: char to check
 * Return:  0 or 1
 **/
